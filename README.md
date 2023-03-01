@@ -6,7 +6,7 @@ TEST AUTOMATION FRAMEWORK (UI/API TESTING)
 
 **PLAYMUSICMARKET** is a music streaming, music retail (download), talent discovery and fan engagement platform that allows everyone - content creators and consumers - to make a living from music.
 
-I've built test automation tools and frameworks that can be used by any engineer to build reliable tests with great code coverage, aligned to company "PLAYMUSICMARKET" needs.
+I was involved in building Automation framework that can be used by any engineer to build reliable tests with great code coverage, aligned to company "PLAYMUSICMARKET" needs.
 
 **When creating the Test Automation Framework, I consider the following main points:**
 
